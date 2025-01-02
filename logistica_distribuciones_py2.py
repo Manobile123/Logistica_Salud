@@ -301,7 +301,7 @@
       "metadata": {
         "id": "G-BnhZEgCYJd"
       },
-      "execution_count": Null,
+      "execution_count": None,
       "outputs": []
     }
   ]
